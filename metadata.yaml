@@ -1,0 +1,30 @@
+_repo: Lives-of-Eminent-Zoologists-from-Aristotle-to-Linn-uswith-Introductory-remarks-on-the-Study-o__34160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGillivray, William
+    alias: MacGillivray, W. (William)
+    birthdate: 1796
+    deathdate: 1852
+    gutenberg_agent_id: '36821'
+    url: http://www.gutenberg.org/2009/agents/36821
+description: ''
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34160'
+  lccn: '10025757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoologists'
+- !lcc 'QL'
+title: 'Lives of Eminent Zoologists, from Aristotle to Linnæus
+
+  with Introductory remarks on the Study of Natural History'
+url: http://www.gutenberg.org/ebooks/34160
